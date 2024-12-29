@@ -33,7 +33,7 @@ Beautiful responsive ecommerce (fornt-end-master) website built with (`html` & `
 # Take a look at the program's appearance
 
 <h2>Appearance on mobile</h2> 
-<img src="https://user-images.githubusercontent.com/74410154/209476503-88b3a582-41ac-4e5a-989f-9370bf1dae1e.png">
+<img src="https://github.com/Abhishekkumarsharma1001/E-Shop-Website/blob/main/Website%20Interface%20phone.png">
 <a href="https://cheery-tiramisu-78e785.netlify.app/"><strong>➥ Live Demo</strong></a>
 <h2>Appearance on desktop</h2> 
 <img src="https://github.com/Abhishekkumarsharma1001/E-Shop-Website/blob/main/Website%20Interface.png">

@@ -1,4 +1,3 @@
-# E-Shop-Website
 # E-Shop Website (Front-end-Project)
 <p align="center">
   <p align="center">

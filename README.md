@@ -36,7 +36,7 @@ Beautiful responsive ecommerce (fornt-end-master) website built with (`html` & `
 <img src="https://user-images.githubusercontent.com/74410154/209476503-88b3a582-41ac-4e5a-989f-9370bf1dae1e.png">
 <a href="https://cheery-tiramisu-78e785.netlify.app/"><strong>➥ Live Demo</strong></a>
 <h2>Appearance on desktop</h2> 
-<img src="https://user-images.githubusercontent.com/74410154/209476950-0b0dbe3f-2aaa-4583-af4f-7333100c6f86.png">
+<img src="https://github.com/Abhishekkumarsharma1001/E-Shop-Website/blob/main/Website%20Interface.png">
 <a href="https://cheery-tiramisu-78e785.netlify.app/"><strong>➥ Live Demo</strong></a>
 
 ## License
